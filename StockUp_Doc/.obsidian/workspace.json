@@ -115,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sobre o projeto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sobre o projeto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -177,7 +175,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sobre o projeto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,9 +201,9 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "b7c50d8ac794aebe",
+  "active": "4a964bd4b2ee4ab0",
   "lastOpenFiles": [
-    "🚀 Configurando Vite + Tailwind CSS no StockUp.md",
-    "Sobre o projeto.md"
+    "Sobre o projeto.md",
+    "🚀 Configurando Vite + Tailwind CSS no StockUp.md"
   ]
 }
