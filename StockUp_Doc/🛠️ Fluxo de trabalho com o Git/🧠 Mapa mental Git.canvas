@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"1c08c73a0b6bfeae","type":"text","text":"# ***✅️ fix:*** \n\n**🎯 Finalidade:** Correção de bug.\n\n**📝 Exemplo:** `fix: corrige cálculo do estoque`","x":-640,"y":-740,"width":300,"height":220},
+		{"id":"33decc16e618637f","type":"text","text":"# ***🌐 MAIN:*** \n\n**🎯 Finalidade:** Versão estável do projeto, pronta para publicação.\n\n**📝 Exemplo:** Sistema que está no ar ou versão aprovada para entrega.","x":-835,"y":-1400,"width":325,"height":200},
+		{"id":"0cb8ffac64885309","type":"text","text":"# ***🧩 refactor:*** \n\n\n**🎯 Finalidade:** Reorganização interna do código sem alterar seu comportamento esperado.\n\n**📝 Exemplo:** `refactor: separa operações de produtos`","x":-320,"y":-740,"width":300,"height":220},
+		{"id":"eaf9b27187ebcbac","type":"text","text":"# ***🛠️ feat:*** \n\n**🎯 Finalidade:** Nova funcionalidade.\n\n**📝 Exemplo:** `feat: adiciona cadastro de produtos`","x":-1300,"y":-740,"width":300,"height":220},
+		{"id":"054a5ff927369a9b","type":"text","text":"# ***🎨 style:*** \n\n**🎯 Finalidade:** Alterações visuais e de apresentação.\n\n**📝 Exemplo:** `style: ajusta layout da página de produtos`","x":-968,"y":-740,"width":295,"height":220},
+		{"id":"96c61b55a204bfdb","type":"text","text":"# ***🧑🏻‍💻 DEVELOP:*** \n\n**🎯 Finalidade:** Integração das funcionalidades antes de publicá-las.\n\n**📝 Exemplo:** Cadastro e listagem de produtos já integrados, mas ainda em testes.","x":-835,"y":-1160,"width":326,"height":220}
+	],
+	"edges":[
+		{"id":"49201dc92bc1a18d","fromNode":"96c61b55a204bfdb","fromSide":"top","toNode":"33decc16e618637f","toSide":"bottom"},
+		{"id":"4b8ff9185dd28c42","fromNode":"eaf9b27187ebcbac","fromSide":"top","toNode":"96c61b55a204bfdb","toSide":"bottom"},
+		{"id":"da25017717453f08","fromNode":"0cb8ffac64885309","fromSide":"top","toNode":"96c61b55a204bfdb","toSide":"bottom"},
+		{"id":"9cb8a0178b273168","fromNode":"1c08c73a0b6bfeae","fromSide":"top","toNode":"96c61b55a204bfdb","toSide":"bottom"},
+		{"id":"dee69584b08f704d","fromNode":"054a5ff927369a9b","fromSide":"top","toNode":"96c61b55a204bfdb","toSide":"bottom"}
+	]
+}

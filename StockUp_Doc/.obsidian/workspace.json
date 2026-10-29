@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "82ef6d31eac0338a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b7c50d8ac794aebe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sobre o projeto.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sobre o projeto"
-            }
-          }
-        ]
-      },
-      {
         "id": "d2a7668b1a40acf9",
         "type": "tabs",
         "children": [
@@ -31,10 +11,24 @@
             "id": "4a964bd4b2ee4ab0",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "markdown",
+              "state": {
+                "file": "🔗 Links uteis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🔗 Links uteis"
+            }
+          },
+          {
+            "id": "38f78f05194ff4c4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -115,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🚀 Configurando Vite + Tailwind CSS no StockUp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🚀 Configurando Vite + Tailwind CSS no StockUp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -175,6 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "🚀 Configurando Vite + Tailwind CSS no StockUp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -203,7 +200,13 @@
   },
   "active": "4a964bd4b2ee4ab0",
   "lastOpenFiles": [
-    "Sobre o projeto.md",
-    "🚀 Configurando Vite + Tailwind CSS no StockUp.md"
+    "🚀 Configurando Vite + Tailwind CSS no StockUp.md",
+    "🔗 Links uteis.md",
+    "📝 Sobre o projeto.md",
+    "🛠️ Fluxo de trabalho com o Git/🧠 Mapa mental Git.canvas",
+    "🛠️ Fluxo de trabalho com o Git/📄 Doc Git.md",
+    "📁 Arquitetura de pasta do projeto/📁 Arquitetura de pasta do projeto.md",
+    "📁 Arquitetura de pasta do projeto",
+    "🛠️ Fluxo de trabalho com o Git"
   ]
 }
